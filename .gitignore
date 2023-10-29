@@ -61,3 +61,6 @@ env/
 experiments/*.pdf
 __pycache__/
 *.synctex*
+
+# nix build output
+result
