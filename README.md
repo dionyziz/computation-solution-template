@@ -1,0 +1,1 @@
+To build, install LaTeX and run `make`.
